@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cf948da-5b27-4c8d-8bc7-6e3129ca1938" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zusuPlNcCwb4tCcBEimqL78khs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.B2Main">
+    <configuration name="A15Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lesson3.A15Main" />
+      <module name="MarinaTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A8Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lesson3.A8Main" />
+      <module name="MarinaTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lesson3.B1Main" />
+      <module name="MarinaTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lesson3.B2Main" />
+      <module name="MarinaTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson4Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lesson4.Lesson4Main" />
+      <module name="MarinaTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.A8Main" />
+      <item itemvalue="Application.A15Main" />
+      <item itemvalue="Application.B1Main" />
+      <item itemvalue="Application.Lesson4Main" />
+      <item itemvalue="Application.B2Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.B2Main" />
+        <item itemvalue="Application.Lesson4Main" />
+        <item itemvalue="Application.B1Main" />
+        <item itemvalue="Application.A15Main" />
+        <item itemvalue="Application.A8Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf948da-5b27-4c8d-8bc7-6e3129ca1938" name="Default Changelist" comment="" />
+      <created>1635009528530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635009528530</updated>
+      <workItem from="1635009532603" duration="5749000" />
+      <workItem from="1635079380858" duration="112000" />
+      <workItem from="1635096227867" duration="9726000" />
+      <workItem from="1635179972557" duration="7683000" />
+      <workItem from="1635357109934" duration="1672000" />
+      <workItem from="1635359238307" duration="3673000" />
+      <workItem from="1635441101947" duration="175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635014563353">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1635014563353" />
+    <state x="441" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635441231541">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="441" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1635441231541" />
+    <state x="457" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1635014560991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1635014560991" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1635404960582">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1635404960582" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1635404960581">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1635404960581" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1635404960580">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1635404960580" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1635404960582">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1635404960582" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1635404960585">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1635404960585" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1635404960584">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1635404960583" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1635404960583">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1635404960583" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1635404960584">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1635404960584" />
+    <state x="397" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1635441150377">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="279" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1635441150377" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/lesson3/B2Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/lesson3/B2Main.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/lesson3/B2Main.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
